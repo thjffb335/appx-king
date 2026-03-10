@@ -24,7 +24,7 @@ from logs import logging
 from bs4 import BeautifulSoup
 import saini as helper
 from html_handler import html_handler
-from drm_handler import drm_handler
+from drm_handler import drm_handlers
 import globals
 # Import database and auth modules
 from db import db
